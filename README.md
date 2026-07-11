@@ -12,7 +12,9 @@
 本包提供基于 A* 搜索 + 离散运动基元的 Ackermann 车辆路径规划，支持 Dubins/Reeds-Shepp 解析扩展、双启发式 (2D 障碍物波前 + SE2 距离) 和共轭梯度路径平滑，**完全不依赖 ROS**。
 
 ---
-**测试效果：**
+
+**测试效果：阿克曼模式**
+
 <img width="1920" height="1080" alt="2026-07-11 22-54-19 的屏幕截图" src="https://github.com/user-attachments/assets/c6d6e47a-70d4-476c-aeb4-e21c65ceac86" />
 <img width="1920" height="1080" alt="2026-07-11 22-54-30 的屏幕截图" src="https://github.com/user-attachments/assets/71019b71-5df6-4e99-9e52-aa8e212647e0" />
 <img width="1920" height="1080" alt="2026-07-11 22-54-24 的屏幕截图" src="https://github.com/user-attachments/assets/00826c81-f228-475d-8e9e-e5c6bc3730b8" />
